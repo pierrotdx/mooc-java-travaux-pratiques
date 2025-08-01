@@ -1,6 +1,4 @@
 public class DistributeurDeBoissons {
-
-
     public static void main(String[] args) {
 
         float prixBoisson=2.50f;
@@ -38,8 +36,5 @@ public class DistributeurDeBoissons {
         System.out.println("Le nombre de pièces de 1 Euro rendues est de : " + nbPieces1e);
         System.out.println("Le nombre de pièces de 0.50 Euro rendues est de : " + nbPieces50c);
         System.out.println("Le nombre de pièces de 0.20 Euro rendues est de : " + nbPieces20c);
-
     }
-
-
 }
